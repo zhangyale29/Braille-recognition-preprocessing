@@ -1,7 +1,9 @@
 ## Braille-recognition-preprocessing-(opencv and python)
 
 ## Team members
-	Yunxuan Zhang, Yang Wu, Haomiao Yuan, Zhenming Song， Yuzhe Zhao
+	Yunxuan Zhang, Yang Wu, Haomiao Yuan, Zhenming Song， Yuzhe Zhao  
+## Tutor
+	Mr.He (Bingran HE)
 
 ## Content
 1. [Environment](#1)
